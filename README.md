@@ -1,6 +1,6 @@
 ### Hey 👋 A little bit about me
 
-From open-source MMORPG emulators when I was 16 years old to developing professionally, I'm passionate about software development!
+From open-source MMORPG emulators when I was 16 years old to developing professionally in my 19s, I'm passionate about software development!
 
 I'm open source collaborator, speaker and author, actually working as Software Engineer at Atlassian in Sydney. I enjoy working with agile methodologies to deliver large-scale products. In my free time, I like contributing to the communities I love, such as Javascript, Node.js, Docker, DevOps and Elastic.
 
