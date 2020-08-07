@@ -15,6 +15,8 @@ In the last year, I wrote the book ["Building testable APIs with Node.js"](https
 
 📫 How to reach me:
 
+[💬 Linkedin](https://www.linkedin.com/in/waldemarnt/)
+
 [📧 via email](mailto:waldemarnt@gmail.com)
 
 [💻 my site ](https://walde.co)
