@@ -1,4 +1,4 @@
-### Hey 👋 A little bit about me
+### $ whoami
 
 From open-source MMORPG emulators when I was 16 years old to developing professionally in my 19s, I'm passionate about software development!
 
