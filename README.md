@@ -9,8 +9,10 @@ I have been working professionally as a software engineer for approximately ten 
 Technically, I enjoy working with large-scale systems architecture, micro-services, DevOps culture, cloud computing, and quality. In the past year, I wrote the book ["Building testable APIs with Node.js"](https://leanpub.com/construindo-apis-testaveis-com-nodejs/) which is entirely free for the Brazilian community. Additionally, I maintain a [blog](https://walde.co/) and [YouTube channel](https://www.youtube.com/user/waldemaneto/videos), where I frequently publish content.
 
 🛠 What I'm Working on
+- Modular Monoliths
 - Micro-services
 - Cloud infrastructures
+- AI Adoption
 
 📫 How to reach me:
 
